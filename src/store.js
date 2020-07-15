@@ -1,7 +1,7 @@
 export let pokedex = {
     categories: [
       {
-        name: 'Огненный',
+        name: 'Fire',
         pokemons: [
           {
             level: '06',
@@ -22,7 +22,7 @@ export let pokedex = {
         ]
       },
       {
-        name: 'Водный',
+        name: 'Water',
         pokemons: [
           {
             level: '03',
@@ -47,7 +47,7 @@ export let pokedex = {
         ]
       },
       {
-        name: 'Электрический',
+        name: 'Electric',
         pokemons: [
           {
             level: '74',
