@@ -38,7 +38,7 @@
                 return category.name === this.$route.params.name
             },
             goBack() {
-                this.$router.back()
+                this.$router.push('/')
             }
         }
     }

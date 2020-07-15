@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="hello">
         <h2 class="subtitle">Категории покемонов</h2>
         <ul class="list-group">
             <li v-for="(category, index) in categories" :key="index" class="list-group-item">
